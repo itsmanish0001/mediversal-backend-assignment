@@ -6,7 +6,9 @@ For a live demo explanation of the project, visit the [Google Drive folder](http
 ---
 
 ## Overview
-This API allows you to manage appointments between patients and doctors. It provides functionalities such as creating appointments, checking for time slot overlaps, and retrieving appointment details. efore scheduling an appointment, you must first register both the doctor and the patient. This is because each appointment is always associated with a specific doctorId and patientId. To make this process easier, routes for managing doctors and patients have been created. Use these routes to register doctors and patients before creating appointments. that's why I also created routes for patient's and doctor's registration. 
+This API allows you to manage appointments between patients and doctors. It provides functionalities such as creating appointments, checking for time slot overlaps, and retrieving appointment details. 
+---
+Before scheduling an appointment, you must first register both the doctor and the patient. This is because each appointment is always associated with a specific doctorId and patientId. To make this process easier, routes for managing doctors and patients have been created. Use these routes to register doctors and patients before creating appointments. that's why I also created routes for patient's and doctor's registration. 
 ---
 
 ## Features
