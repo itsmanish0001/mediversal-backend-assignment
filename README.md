@@ -18,33 +18,7 @@ This API allows you to manage appointments between patients and doctors. It prov
 
 ---
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Create a `.env` file in the root directory and add the following environment variables:
-   ```env
-   PORT=4000
-   MONGO_URI=<your_mongodb_connection_string>
-   ```
-
-4. Start the server:
-   ```bash
-   npm start
-   ```
-
-5. The API will be available at `http://localhost:4000`.
-
----
 
 ## API Endpoints
 
