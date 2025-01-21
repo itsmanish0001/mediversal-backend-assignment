@@ -185,8 +185,7 @@ This query checks if any existing appointment's start or end time conflicts with
 
 ---
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
